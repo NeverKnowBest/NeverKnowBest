@@ -1,5 +1,10 @@
 ## Guilherme Tavares
 
+<div align="center">
+  <img src="https://www.wallpaperflare.com/static/289/791/742/adventure-time-cartoon-adventure-time-wallpaper.jpg" width="100%" style="border-radius: 10px;" />
+</div>
+<br/>
+
 ### Linguagens e Tecnologias
 
 <img 
