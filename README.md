@@ -32,7 +32,7 @@
     title="Express" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="filter: invert(1);" alt="Express.js white icon" width="50" height="50"
 />
 <img 
     align="left" 
@@ -66,6 +66,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -85,7 +93,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NeverKnowBest&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NeverKnowBest&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
