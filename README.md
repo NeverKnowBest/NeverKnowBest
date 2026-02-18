@@ -100,8 +100,8 @@
     alt="Prisma" 
     title="Prisma"
     width="30px" 
-    style="padding-right: 10px; filter: grayscale(100%) brightness(1000%);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/prisma/white" 
 />
 
 <br/>
