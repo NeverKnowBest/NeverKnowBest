@@ -32,7 +32,7 @@
     title="Express" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="filter: invert(1);" alt="Express.js white icon" width="50" height="50"
+    src="https://cdn.simpleicons.org/express/white"
 />
 <img 
     align="left" 
